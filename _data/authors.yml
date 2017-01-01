@@ -1,0 +1,4 @@
+# Set our authors
+jloh:
+  twitter: itsjloh
+  img: "{% avatar [USERNAME] %}"
