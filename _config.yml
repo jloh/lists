@@ -5,6 +5,9 @@ subtitle: 'A big bundle of lists on multiple topics'
 # Set theme to be used by GitHub pages
 theme: jekyll-theme-minimal
 
+# Use pretty permalinks
+permalink: pretty
+
 ## Enable/show navigation. There are there options:
 ##   0 - always hide
 ##   1 - always show
