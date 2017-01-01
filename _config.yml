@@ -1,60 +1,34 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Lists by jloh.co'
+title: 'lists by jloh'
+name: 'lists by jloh'
 subtitle: 'A big bundle of lists on multiple topics'
-
-# Set theme to be used by GitHub pages
-theme: jekyll-theme-minimal
 
 # Use pretty permalinks
 permalink: pretty
-
-## Enable/show navigation. There are there options:
-##   0 - always hide
-##   1 - always show
-##   2 - show only if posts are present
-#navigation: 2
-
-# URL to source code, used in _includes/footer.html
-#codeurl: 'https://github.com/jloh/lists'
-
-## Default categories (in order) to appear in the navigation
-#sections: [
-#    ['doc', 'Documentation'],
-#    ['tut', 'Tutorial'],
-#    ['ref', 'Reference'],
-#    ['dev', 'Developers'],
-#    ['post', 'Posts']
-#]
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
 baseurl: '/lists'
 
-# Dates are not included in permalinks
-permalink: none
-
 # Since these are pages, it doesn't really matter
 future: true
 
-# Use the kramdown Markdown renderer
-markdown: kramdown
-redcarpet:
-    extensions: [
-        'no_intra_emphasis',
-        'fenced_code_blocks',
-        'autolink',
-        'strikethrough',
-        'superscript',
-        'with_toc_data',
-        'tables',
-        'hardwrap'
-    ]
+exclude:
+  - temp
+
+# Theme specific settings 
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
+
+# End theme specific settings
 
 # Default site social content
 twitter:
   username: itsjloh
 social:
   name: James Loh
+  github: jloh
   links:
     - https://github.com/jloh
     - https://keybase.io/jloh

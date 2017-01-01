@@ -1,4 +1,10 @@
-# Lists by jloh.co
+# lists by @jloh
 
 
-A big bundle of lists on multiple subjects by jloh.co
+A big bundle of lists on multiple subjects smashed together by @jloh
+
+If you'd like to add more topics/subject matters below please send in a pull request!
+
+## Current lists
+ * [Blogging](blogging.md)
+ * [Community lists](community.md)

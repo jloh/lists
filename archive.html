@@ -1,0 +1,22 @@
+---
+layout: default
+title: Archive
+archive: false
+---
+<div class="col-sm-12">
+    <div class="page-title">
+        {{ page.title }}
+    </div>
+    <div class="page-content">
+        <ul class="page-list">
+            {% for page in site.pages %}
+                {% if page.archive %}
+                <li>
+                    <time class="timeago pagelist-meta" datetime="{{ page.date |  date: "%A %-d %B %Y" }}">{{ page.date }}</time>
+                    &mdash; <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+                </li>
+                {% endif %}
+            {% endfor %} 
+        </ul>
+    </div>
+</div>

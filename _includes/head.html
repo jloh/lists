@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="alternate" type="application/atom+xml" title="{{site.name}}" href="{{site.url}}/feed.xml">
+	{% seo %}
+        <!-- Loop and attach page tags from page meta section -->
+        {% if page.tags %}
+        <meta name="keywords" content="{{ page.tags }}">
+        {% else %}
+        <meta name="keywords" content="">
+        {% endif %}
+        <link rel="icon" type="image/png" href="{{ "/favicon.png" | absolute_url }}">
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="{{ "/assets/css/main.css" | absolute_url }}">
+        <link href='https://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
+        <!-- JQuery -->
+        <script src="{{ "/assets/js/jquery-1.10.2.js" | absolute_url }}"></script>
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <!-- Favicons -->
+        <link rel="apple-touch-icon" sizes="180x180" href="https://static.jloh.co/blog/favicons/apple-touch-icon.png">
+        <link rel="icon" type="image/png" href="https://static.jloh.co/blog/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://static.jloh.co/blog/favicons/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="https://static.jloh.co/blog/favicons/manifest.json">
+        <link rel="mask-icon" href="https://static.jloh.co/blog/favicons/safari-pinned-tab.svg" color="#1e51d6">
+        <link rel="shortcut icon" href="https://static.jloh.co/blog/favicons/favicon.ico">
+        <meta name="msapplication-config" content="https://static.jloh.co/blog/favicons/browserconfig.xml">
+        <meta name="theme-color" content="#808080">
+    </head>
+<body>
