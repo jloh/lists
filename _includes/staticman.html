@@ -2,7 +2,7 @@
     <input name="options[redirect]" type="hidden" value="{{ page.url | absolute_url }}">
     <!-- e.g. "2016-01-02-this-is-a-post" -->
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-    <input name="options[origin]" type="hidden" value="jloh.github.io">
+    <input name="options[origin]" type="hidden" value="{{ site.url }}{{ page.url }}"
     <div class="form-group row">
       <label for="inputName2" class="col-sm-2 col-form-label">Name</label>
       <div class="col-sm-10">
