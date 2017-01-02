@@ -1,5 +1,5 @@
 <h3>Leave a comment <i class="fa fa-commenting" aria-hidden="true"></i></h3>
-  <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.github.repository_nwo }}/master/comments" onsubmit="javascript:_paq.push(['trackEvent', 'Comments', 'NewComment']);">
+  <form method="POST" action="https://api.staticman.net/v2/entry/{{ site.github.repository_nwo }}/master/comments" onsubmit="javascript:_paq.push(['trackEvent', 'Comment', 'NewComment']);">
 
     <input name="options[redirect]" type="hidden" value="{{ page.url | absolute_url }}">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
