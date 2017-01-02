@@ -5,7 +5,8 @@ layout: list
 archive: true
 slug: blogging
 ---
-I'm constantly searching for new tools and resources after reading other blog posts and then promptly losing them. This page will serve as a way of me managing to hopefully keep track of them all, bookmarking them.
+
+This list contains anything to do with blogging or publishing content on the web.
 
 ## Analytics Tools
 
@@ -13,10 +14,10 @@ I'm constantly searching for new tools and resources after reading other blog po
  * [Piwik](https://piwik.org/ "Piwik - Free Web Analytics Software")
 
 ## Email Campaign Platforms
- * [charley](https://charley.io/ "Charley Email Marketing &#8211; Beautiful Email Marketing Made Simple")
- * [MailChimp](http://mailchimp.com/ "MailChimp email marketing")
- * [MailerLite](https://mailerlite.com)
- * [SendGrid](https://sendgrid.com/ "SendGrid - Marketing &amp; Transactional Email Service")
+ * <span class="price-paid">[charley](https://charley.io/ "Charley Email Marketing &#8211; Beautiful Email Marketing Made Simple")</span>
+ * <span class="price-freetier">[MailChimp](http://mailchimp.com/ "MailChimp email marketing")</span>
+ * <span class="price-freetier">[MailerLite](https://mailerlite.com "Email Marketing Software, Services and Newsletters · MailerLite")</span>
+ * <span class="price-paid">[SendGrid](https://sendgrid.com/ "SendGrid - Marketing &amp; Transactional Email Service")</span>
 
 ## Publishing Platforms & Tools
 
@@ -27,14 +28,14 @@ I'm constantly searching for new tools and resources after reading other blog po
 ### Platforms <br><small>**Note:** Some platforms may appear twice below as as they have hosted and self-hosted options
 
 #### Hosted/SaaS
- * [Blogger](https://www.blogger.com/ "Blogger")
- * [GitHub Pages](https://pages.github.com/ "GitHub Pages")
- * [GhostPro](https://ghost.org/ "Ghost - Just a blogging platform")
- * [Medium](https://medium.com/ "Medium")
- * [Squarespace](https://www.squarespace.com/ "Build a Website - Squarespace")
- * [Tumblr](https://www.tumblr.com/ "Sign up - Tumblr")
- * [Wix](http://www.wix.com/ "Free Website Builder - Create a Free Website - WIX.com")
- * [WordPress](https://wordpress.com/ "WordPress.com: Create a free website or blog")
+ * <span class="price-free">[Blogger](https://www.blogger.com/ "Blogger")</span>
+ * <span class="price-free">[GitHub Pages](https://pages.github.com/ "GitHub Pages")</span>
+ * <span class="price-paid">[GhostPro](https://ghost.org/ "Ghost - Just a blogging platform")</span>
+ * <span class="price-free">[Medium](https://medium.com/ "Medium")</span>
+ * <span class="price-paid">[Squarespace](https://www.squarespace.com/ "Build a Website - Squarespace")</span>
+ * <span class="price-free">[Tumblr](https://www.tumblr.com/ "Sign up - Tumblr")</span>
+ * <span class="price-freetier">[Wix](http://www.wix.com/ "Free Website Builder - Create a Free Website - WIX.com")</span>
+ * <span class="price-freetier">[WordPress](https://wordpress.com/ "WordPress.com: Create a free website or blog")</span>
 
 #### Self Hosted
 
