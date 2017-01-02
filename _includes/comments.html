@@ -1,0 +1,21 @@
+<div class="share">
+{% if site.data.comments[page.slug] %}
+    <h3>Comments <i class="fa fa-comments" aria-hidden="true"></i></h3>
+    <ul class="media-list">
+    {% assign comments = site.data.comments[page.slug] | sort %}
+    {% for comment in comments %}
+	<hr>
+        {% assign email   = comment[1].email %}
+        {% assign name    = comment[1].name %}
+        {% assign website = comment[1].website %}
+        {% assign date    = comment[1].date %}
+        {% assign message = comment[1].message %}
+    
+        {% include comments/post-comment.html index=forloop.index email=email name=name website=website date=date message=message %}
+    {% endfor %}
+    </ul>
+<hr>
+{% endif %}
+
+{% include comments/staticman.html %}
+</div>
