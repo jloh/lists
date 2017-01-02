@@ -4,6 +4,7 @@ description: A big list of blogging tools are resources.</br>
 layout: list
 archive: true
 type: list
+slug: community
 ---
 
 All over the internet there are hundreds of other lists which you can checkout below.
