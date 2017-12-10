@@ -7,4 +7,5 @@ If you'd like to add more topics/subject matters below please send in a pull req
 
 ## Current lists
  * [Blogging](blogging.md)
+ * [Streaming](streaming.md)
  * [Community lists](community.md)

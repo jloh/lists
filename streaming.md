@@ -6,7 +6,7 @@ archive: true
 slug: streaming
 ---
 
-This list contains anything to do with blogging or publishing content on the web.
+This list contains anything to do with sreaming on your platform of choice.
 
 ## Hardware
 
