@@ -11,3 +11,7 @@ This list contains anything to do with sreaming on your platform of choice.
 ## Hardware
 
  * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck "Stream Deck - 15 LCD keys for streaming")
+ 
+## SaaS
+  * [Paperspace](https://www.paperspace.com/ "Paperspace - Your full computer in the cloud")  
+    Full cloud hosted desktop environment
