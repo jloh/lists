@@ -43,9 +43,9 @@ comments:
 
   # Mailgun notifications
   notifications:
-    enabled: false
+    enabled: true
     apiKey: 'ceohIxnt3rGRgGQL/rwxgziz/8MC6oVKlTOJPqOuK/6yiC9PBezQUac3JViRtIn8olVJCC80rcU+RDXUK5qAyFiX/bCIXcHMkrCjkpRq800U1wY/9snpEBS62sAlAaf/zKC09cD0a790RQ1iVrmE5ArbHEVKrcER264lHWU1ZtE='
-    domain: 'sandboxf23c6d3a77b14f0ead8e004da4295a2c.mailgun.org'
+    domain: 'gom/s+ABROsxMNWkltMn2dOiOHHeqWht111jaoM18XBNcMjSHL9z+8gpSAiYlOeNYHaWrVtWUGZzW/ONq/rz+YvtZVFGDvcCMihXL6QD3JnpPXDsbg8lGLYklVWnWK36s0ozl+dopw6pyWtzayx9aZ/UjFLFUMJnP2inZVmwxI0='
 
   # (*) REQUIRED
   #
