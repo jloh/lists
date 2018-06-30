@@ -41,8 +41,11 @@ comments:
   # Name of the site. Used in notification emails.
   name: "jloh.github.io"
 
+  # Mailgun notifications
   notifications:
-    enabled: false
+    enabled: true
+    apiKey: 'ceohIxnt3rGRgGQL/rwxgziz/8MC6oVKlTOJPqOuK/6yiC9PBezQUac3JViRtIn8olVJCC80rcU+RDXUK5qAyFiX/bCIXcHMkrCjkpRq800U1wY/9snpEBS62sAlAaf/zKC09cD0a790RQ1iVrmE5ArbHEVKrcER264lHWU1ZtE='
+    domain: 'sandboxf23c6d3a77b14f0ead8e004da4295a2c.mailgun.org'
 
   # (*) REQUIRED
   #
