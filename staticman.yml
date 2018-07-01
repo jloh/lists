@@ -44,8 +44,8 @@ comments:
   # Mailgun notifications
   notifications:
     enabled: true
-    apiKey: 'ceohIxnt3rGRgGQL/rwxgziz/8MC6oVKlTOJPqOuK/6yiC9PBezQUac3JViRtIn8olVJCC80rcU+RDXUK5qAyFiX/bCIXcHMkrCjkpRq800U1wY/9snpEBS62sAlAaf/zKC09cD0a790RQ1iVrmE5ArbHEVKrcER264lHWU1ZtE='
-    domain: 'gom/s+ABROsxMNWkltMn2dOiOHHeqWht111jaoM18XBNcMjSHL9z+8gpSAiYlOeNYHaWrVtWUGZzW/ONq/rz+YvtZVFGDvcCMihXL6QD3JnpPXDsbg8lGLYklVWnWK36s0ozl+dopw6pyWtzayx9aZ/UjFLFUMJnP2inZVmwxI0='
+    apiKey: 'tUIjoxR2sDVsEjl4618/jlGVl2ktC1OpiumU5P5Y7d4bXzqHZQbuaZ9Tk4leKBbReJ2pmW0FSXGFKF7MIO2n9xY5lswn73HQa72UKfE+xWOd8bJNnCB0F2pywatMgUdNJDtaMJ9a02P9oNYnzPwGC3aZvwR4+GdiDSLq3Q/Vjs4='
+    domain: 'Xr6wENjqnJeZh8nikOSEjb/UJg+/VILrpeWOpjqdFO/WiQ5roTziOnVuhrRHxJvrF17oD4uFlbMzABCl2Qbe/enskql1urBIG3ArBq1JP/g4etPVL+GUAQqf0r4Qck6UuojjpKRYSNPZ5uirtuXEuUcUsIC+/3mLx4NIq9fLM8s='
 
   # (*) REQUIRED
   #
