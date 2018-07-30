@@ -5,7 +5,6 @@ layout: list
 archive: true
 slug: blogging
 ---
-
 This list contains anything to do with blogging or publishing content on the web.
 
 ## Analytics Tools
@@ -15,6 +14,7 @@ This list contains anything to do with blogging or publishing content on the web
 
 ## Email Campaign Platforms
  * <span class="price-paid">[charley](https://charley.io/ "Charley Email Marketing &#8211; Beautiful Email Marketing Made Simple")</span>
+ * <span class="price-freetier">[EmailOctopus](https://emailoctopus.com/ "EmailOctopus")</span>
  * <span class="price-freetier">[MailChimp](http://mailchimp.com/ "MailChimp email marketing")</span>
  * <span class="price-freetier">[MailerLite](https://mailerlite.com "Email Marketing Software, Services and Newsletters · MailerLite")</span>
  * <span class="price-paid">[SendGrid](https://sendgrid.com/ "SendGrid - Marketing &amp; Transactional Email Service")</span>
@@ -22,8 +22,11 @@ This list contains anything to do with blogging or publishing content on the web
 ## Publishing Platforms & Tools
 
 ### Commenting
+ * [Commento](https://commento.io/ "Commento")
  * [Discourse](http://www.discourse.org/ "Discourse - Civilized Discussion")
  * [Disqus](https://disqus.com/ "Disqus &ndash; The #1 way to build your audience")
+ * [Remarkbox](https://www.remarkbox.com/ "Remarkbox - Hosted Comment Service")
+ * [Staticman](https://staticman.net/ "Static sites with super powers")
 
 ### Platforms <br><small>**Note:** Some platforms may appear twice below as as they have hosted and self-hosted options
 
